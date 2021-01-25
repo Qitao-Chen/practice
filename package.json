@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "personal study repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qitao-Chen/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qitao-Chen/practice/issues"
+  },
+  "homepage": "https://github.com/Qitao-Chen/practice#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
